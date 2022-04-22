@@ -1,0 +1,37 @@
+.hor{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+.btns{
+  margin: 0 10px !important;
+}
+
+.horizontal{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.left{
+  flex: 1;
+}
+
+.ag-body-viewport,.ag-cell,.ag-header-viewport, .ag-paging-panel,.uppercol,.ag-header-cell-text {
+  background-color: #283d4a !important;
+  color: #fff;
+}
+/* #2d4250 */
+/* #283d4a */
+.uppercol{
+  padding: 10px;
+  /* padding-left: 0px\; */
+}
+.ag-paging-row-summary-panel{
+  color: #fff;
+}
+.ag-paging-description{
+  color: #fff;
+}
